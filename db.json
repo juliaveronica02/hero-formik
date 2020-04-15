@@ -1,0 +1,12 @@
+{
+    "heroes":[
+        {
+        "name": "Abdul Halim",
+        "born": 19887,
+        "die": 1988,
+        "description":"Aktivis kemerdekaan dan Ulama",
+        "establishment" : 2008,
+        "imgUrl": "https://id.wikipedia.org/wiki/Abdul_Haris_Nasution"
+    }
+    ]
+}
